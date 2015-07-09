@@ -16,4 +16,3 @@ In Peer-to-peer architecture, each node(peer) is identical, serves both as webpa
 ---
 
 The system was mainly built on [Scrapy](http://scrapy.org) and [Twisted](https://twistedmatrix.com). Scrapy guarantees crawling performance of each peer, while Twisted makes sure high-performance asynchronous conferencing between them. Besides, [Redis](http://redis.io) and [MongoDB](https://www.mongodb.org) were chosen as k-v cache and database system.
-
