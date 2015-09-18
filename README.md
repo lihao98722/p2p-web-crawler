@@ -1,7 +1,7 @@
 ### Peer-to-peer Distributed Web Crawler
 ---
 
-A high-performance distributed web crawler based on peer-to-peer architecture, which ensures load-balancing and supports recovery from errors.
+A high-performance distributed web crawler based on peer-to-peer architecture which ensures load-balancing and supports recovery from errors.
 
 
 #### Master/Slaves vs Peer-to-peer
